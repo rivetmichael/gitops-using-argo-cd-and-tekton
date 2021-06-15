@@ -15,6 +15,6 @@ spec:
       prune: true
       selfHeal: true
   source:
-    repoURL: https://github.com/ricoberger/gitops-using-argo-cd-and-tekton.git
+    repoURL: https://github.com/rivetmichael/gitops-using-argo-cd-and-tekton.git
     targetRevision: dev
     path: clusters/argocd/dev
